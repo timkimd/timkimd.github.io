@@ -1,0 +1,6 @@
+@article{Kim2023b,
+ title     = {Flow-field inference from neural data using deep recurrent networks},
+ author    = {Kim, Timothy Doyeon and Luo, Thomas Zhihao and Can, Tankut and Krishnamurthy, Kamesh and Pillow, Jonathan W. and Brody, Carlos D.}, 
+ journal   = {bioRxiv},
+ year      = {2023}
+}
