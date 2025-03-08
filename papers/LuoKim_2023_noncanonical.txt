@@ -1,0 +1,6 @@
+@article{LuoKim2023,
+ title     = {Transitions in dynamical regime and neural mode underlie perceptual decision-making},
+ author    = {Luo, Thomas Zhihao and Kim, Timothy Doyeon and Gupta, Diksha and Bondy, Adrian G. and Kopec, Charles D. and Elliot, Verity A. and DePasquale, Brian and Brody, Carlos D.}, 
+ journal   = {bioRxiv},
+ year      = {2023}
+}

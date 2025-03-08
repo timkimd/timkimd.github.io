@@ -1,0 +1,6 @@
+@article{Kim2021,
+ title     = {Inferring Latent Dynamics Underlying Neural Population Activity via Neural Differential Equations},
+ author    = {Kim, Timothy Doyeon and Luo, Thomas Zhihao and Pillow, Jonathan W. and Brody, Carlos D.}, 
+ journal   = {Proceedings of the 38th International Conference on Machine Learning},
+ year      = {2021}
+}

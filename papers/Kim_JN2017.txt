@@ -1,0 +1,9 @@
+@article {Kim2017,
+	author = {Kim, Timothy Doyeon and Kabir, Mohammad and Gold, Joshua I.},
+	title = {Coupled Decision Processes Update and Maintain Saccadic Priors in a Dynamic Environment},
+	volume = {37},
+	number = {13},
+	pages = {3632--3645},
+	year = {2017},
+	journal = {Journal of Neuroscience}
+}

@@ -1,0 +1,8 @@
+@inproceedings{
+kim2022learning,
+title={Learning and Shaping Manifold Attractors for Computation in Gated Neural {ODE}s},
+author={Timothy Doyeon Kim and Tankut Can and Kamesh Krishnamurthy},
+booktitle={NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations},
+year={2022},
+url={https://openreview.net/forum?id=Bmng0rDYklw}
+}
