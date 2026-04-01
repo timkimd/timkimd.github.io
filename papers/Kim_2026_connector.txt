@@ -1,0 +1,6 @@
+@article{kim2026connector,
+    author={Timothy Doyeon Kim and Ulises Pereira-Obilinovic and Yiliu Wang and Eric Shea-Brown and Uygar Sümbül},
+    title={Identifying Connectivity Distributions from Neural Dynamics Using Flows},
+    year={2026},
+    journal={arXiv}
+}

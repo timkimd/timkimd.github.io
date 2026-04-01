@@ -1,0 +1,6 @@
+@article{wang2026gumbel,
+    author={Yiliu Wang and Timothy Doyeon Kim and Eric Shea-Brown and Uygar Sümbül},
+    title={Interpretable time series analysis with Gumbel dynamics},
+    year={2026},
+    journal={arXiv}
+}
